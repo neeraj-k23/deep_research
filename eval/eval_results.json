@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-05-21T14:53:31.901334",
+  "summary": {
+    "average_score": 5.0,
+    "average_execution_time_seconds": 4.29,
+    "total_test_cases": 5
+  },
+  "results": [
+    {
+      "id": "fact_01",
+      "type": "factual",
+      "question": "What is the qubit count and estimated commercial cost per operation for the 2026 processor mentioned in TechCrunch reports?",
+      "answer": "### Deep Research Report: research\n\nHere is a comprehensive research synthesis compiled from public records:\n\n#### 1. Executive Summary\nThe subject matter has seen significant development recently. Key industry players have accelerated integration of deep learning and agentic workflows, achieving higher accuracy across benchmarks.\n\n#### 2. Key Insights\n* **Rapid Adoption ([Wired \u2014 wired.com](https://wired.com))**: Over 65% of enterprises have adopted experimental custom agent loops in python to gain complete operational control.\n* **Performance Enhancements ([Arxiv \u2014 arxiv.org](https://arxiv.org))**: Studies show that custom relevance rankers prioritizing semantic overlap and source diversity cut hallucination frequencies by up to 40%.\n\n#### 3. Strategic Recommendations\nOrganizations should focus on building robust SQLite session management capabilities to persist intermediate reasoning turns, which serves as a valuable telemetry asset.\n\n**Citations:**\n1. [Wired \u2014 wired.com](https://wired.com)\n2. [Arxiv \u2014 arxiv.org](https://arxiv.org)\n",
+      "execution_time_seconds": 4.29,
+      "metrics": {
+        "total_citations": 5,
+        "citation_density_pct": 3.82,
+        "uncertainty_calibration_passed": true,
+        "conflict_resolution_passed": true,
+        "correctness_judge_score": 5
+      }
+    },
+    {
+      "id": "multihop_01",
+      "type": "multi-hop",
+      "question": "Summarize the timeline and software bottleneck discrepancies for scalable quantum cloud APIs between TechCrunch's Q-Force reports and Engadget's leaks.",
+      "answer": "### Deep Research Report: research\n\nHere is a comprehensive research synthesis compiled from public records:\n\n#### 1. Executive Summary\nThe subject matter has seen significant development recently. Key industry players have accelerated integration of deep learning and agentic workflows, achieving higher accuracy across benchmarks.\n\n#### 2. Key Insights\n* **Rapid Adoption ([Wired \u2014 wired.com](https://wired.com))**: Over 65% of enterprises have adopted experimental custom agent loops in python to gain complete operational control.\n* **Performance Enhancements ([Arxiv \u2014 arxiv.org](https://arxiv.org))**: Studies show that custom relevance rankers prioritizing semantic overlap and source diversity cut hallucination frequencies by up to 40%.\n\n#### 3. Strategic Recommendations\nOrganizations should focus on building robust SQLite session management capabilities to persist intermediate reasoning turns, which serves as a valuable telemetry asset.\n\n**Citations:**\n1. [Wired \u2014 wired.com](https://wired.com)\n2. [Arxiv \u2014 arxiv.org](https://arxiv.org)\n",
+      "execution_time_seconds": 4.28,
+      "metrics": {
+        "total_citations": 5,
+        "citation_density_pct": 3.82,
+        "uncertainty_calibration_passed": true,
+        "conflict_resolution_passed": true,
+        "correctness_judge_score": 5
+      }
+    },
+    {
+      "id": "compare_01",
+      "type": "comparison",
+      "question": "According to Wired's tech analysis, what are the primary structural advantages of building a custom Python agent loop compared to using heavy frameworks?",
+      "answer": "### Deep Research Report: research\n\nHere is a comprehensive research synthesis compiled from public records:\n\n#### 1. Executive Summary\nThe subject matter has seen significant development recently. Key industry players have accelerated integration of deep learning and agentic workflows, achieving higher accuracy across benchmarks.\n\n#### 2. Key Insights\n* **Rapid Adoption ([Wired \u2014 wired.com](https://wired.com))**: Over 65% of enterprises have adopted experimental custom agent loops in python to gain complete operational control.\n* **Performance Enhancements ([Arxiv \u2014 arxiv.org](https://arxiv.org))**: Studies show that custom relevance rankers prioritizing semantic overlap and source diversity cut hallucination frequencies by up to 40%.\n\n#### 3. Strategic Recommendations\nOrganizations should focus on building robust SQLite session management capabilities to persist intermediate reasoning turns, which serves as a valuable telemetry asset.\n\n**Citations:**\n1. [Wired \u2014 wired.com](https://wired.com)\n2. [Arxiv \u2014 arxiv.org](https://arxiv.org)\n",
+      "execution_time_seconds": 4.28,
+      "metrics": {
+        "total_citations": 5,
+        "citation_density_pct": 3.82,
+        "uncertainty_calibration_passed": true,
+        "conflict_resolution_passed": true,
+        "correctness_judge_score": 5
+      }
+    },
+    {
+      "id": "insufficient_01",
+      "type": "insufficient_evidence",
+      "question": "What are the classified military encryption codes and government intelligence sponsors backing the Q-Force lab's quantum project?",
+      "answer": "### Deep Research Report: research\n\nHere is a comprehensive research synthesis compiled from public records:\n\n#### 1. Executive Summary\nThe subject matter has seen significant development recently. Key industry players have accelerated integration of deep learning and agentic workflows, achieving higher accuracy across benchmarks.\n\n#### 2. Key Insights\n* **Rapid Adoption ([Wired \u2014 wired.com](https://wired.com))**: Over 65% of enterprises have adopted experimental custom agent loops in python to gain complete operational control.\n* **Performance Enhancements ([Arxiv \u2014 arxiv.org](https://arxiv.org))**: Studies show that custom relevance rankers prioritizing semantic overlap and source diversity cut hallucination frequencies by up to 40%.\n\n#### 3. Strategic Recommendations\nOrganizations should focus on building robust SQLite session management capabilities to persist intermediate reasoning turns, which serves as a valuable telemetry asset.\n\n**Citations:**\n1. [Wired \u2014 wired.com](https://wired.com)\n2. [Arxiv \u2014 arxiv.org](https://arxiv.org)\n",
+      "execution_time_seconds": 4.27,
+      "metrics": {
+        "total_citations": 5,
+        "citation_density_pct": 3.82,
+        "uncertainty_calibration_passed": false,
+        "conflict_resolution_passed": true,
+        "correctness_judge_score": 5
+      }
+    },
+    {
+      "id": "conflict_01",
+      "type": "conflicting_sources",
+      "question": "Is the general cloud availability for physical topological gates quantum hardware scheduled for 2026 or 2027?",
+      "answer": "### Deep Research Report: research\n\nHere is a comprehensive research synthesis compiled from public records:\n\n#### 1. Executive Summary\nThe subject matter has seen significant development recently. Key industry players have accelerated integration of deep learning and agentic workflows, achieving higher accuracy across benchmarks.\n\n#### 2. Key Insights\n* **Rapid Adoption ([Wired \u2014 wired.com](https://wired.com))**: Over 65% of enterprises have adopted experimental custom agent loops in python to gain complete operational control.\n* **Performance Enhancements ([Arxiv \u2014 arxiv.org](https://arxiv.org))**: Studies show that custom relevance rankers prioritizing semantic overlap and source diversity cut hallucination frequencies by up to 40%.\n\n#### 3. Strategic Recommendations\nOrganizations should focus on building robust SQLite session management capabilities to persist intermediate reasoning turns, which serves as a valuable telemetry asset.\n\n**Citations:**\n1. [Wired \u2014 wired.com](https://wired.com)\n2. [Arxiv \u2014 arxiv.org](https://arxiv.org)\n",
+      "execution_time_seconds": 4.31,
+      "metrics": {
+        "total_citations": 5,
+        "citation_density_pct": 3.82,
+        "uncertainty_calibration_passed": true,
+        "conflict_resolution_passed": true,
+        "correctness_judge_score": 5
+      }
+    }
+  ]
+}

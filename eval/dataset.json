@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fact_01",
+    "type": "factual",
+    "question": "What is the qubit count and estimated commercial cost per operation for the 2026 processor mentioned in TechCrunch reports?",
+    "description": "Tests the agent's ability to extract specific numerical details (1000 qubits, $0.05 per quantum gate operation) and map exact citations."
+  },
+  {
+    "id": "multihop_01",
+    "type": "multi-hop",
+    "question": "Summarize the timeline and software bottleneck discrepancies for scalable quantum cloud APIs between TechCrunch's Q-Force reports and Engadget's leaks.",
+    "description": "Tests multi-hop synthesis: extracting the 2026 hardware achievement from TechCrunch and combining it with Engadget's mid-2027 postponement leaks due to software orchestration gate delays."
+  },
+  {
+    "id": "compare_01",
+    "type": "comparison",
+    "question": "According to Wired's tech analysis, what are the primary structural advantages of building a custom Python agent loop compared to using heavy frameworks?",
+    "description": "Tests comparative reasoning: extracting distinct bulleted advantages (control, direct prompt/token bounds management, SQLite telemetry transparency, 30% faster execution cycles) from crawled wired articles."
+  },
+  {
+    "id": "insufficient_01",
+    "type": "insufficient_evidence",
+    "question": "What are the classified military encryption codes and government intelligence sponsors backing the Q-Force lab's quantum project?",
+    "description": "Tests uncertainty calibration: the search should return no verified records. The agent must acknowledge the lack of public evidence and propose safety disclosures/next steps."
+  },
+  {
+    "id": "conflict_01",
+    "type": "conflicting_sources",
+    "question": "Is the general cloud availability for physical topological gates quantum hardware scheduled for 2026 or 2027?",
+    "description": "Tests conflict resolution: the agent must notice that TechCrunch reports a 2026 release, while Engadget claims software orchestration delayed it to Q2 2027. It must explicitly cite both sources and explain the contradiction."
+  }
+]
